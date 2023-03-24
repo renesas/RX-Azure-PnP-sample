@@ -1,0 +1,11 @@
+*.bak
+*.tmp
+.metadata/
+.settings/
+HardwareDebug/
+Debug/
+Release/
+output/
+trash/
+output/
+.vscode
